@@ -1,0 +1,12 @@
+# custom rules for Quantumult X
+
+host-suffix, claude.ai, US Servers
+host-suffix, anthropic.com, US Servers
+host-wildcard, vidhub*.cc, direct
+host-keyword, google, US Servers
+host-suffix, hkex.com.hk, Auto
+host-suffix, logitechg.com, direct
+host-suffix, logitech.io, direct
+host-suffix, calibre-ebook.com, direct
+host-suffix, qq.com, direct
+host-suffix, perplexity.ai, US Servers
