@@ -1,0 +1,6 @@
+# custom rules for Quantumult X
+
+host-suffix, claude.ai, US Servers
+host-suffix, anthropic.com, US Servers
+host-keyword, google, US Servers
+host-suffix, perplexity.ai, US Servers
