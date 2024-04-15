@@ -4,6 +4,10 @@ host-suffix, logitech.io, direct
 host-suffix, calibre-ebook.com, direct
 host-suffix, qq.com, direct
 host-suffix, moonshot.cn, direct
-host-suffix, mi.com, direct
 host-suffix, manmanbuy.com, direct
+
+# Xiaomi
+host-suffix, mi.com, direct
+host-suffix, mi-img.com, direct
+host-fuffix, xiaomi.com, direct
 
