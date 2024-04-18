@@ -1,3 +1,9 @@
 host-suffix, hkex.com.hk, Auto
+
+// X.com
 host-suffix, twitter.com, Auto
 host-suffix, twimg.com, Auto
+host-suffix, x.com, Auto
+
+// Github
+host-keyword, github, Auto
