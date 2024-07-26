@@ -1,4 +1,10 @@
 host-wildcard, vidhub*.cc, direct
+# 大米星球
+host-suffix, dmxq.info, direct
+host, super.ffzy-online6.com, direc
+host-suffix, ynajax.com, direct
+host-suffix, sdljwomen.com, direct
+#
 host-suffix, logitechg.com, direct
 host-suffix, logitech.io, direct
 host-suffix, calibre-ebook.com, direct
