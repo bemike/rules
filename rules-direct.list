@@ -1,7 +1,7 @@
 host-wildcard, vidhub*.cc, direct
 # 大米星球
 host-suffix, dmxq.info, direct
-host, super.ffzy-online6.com, direc
+host-keyword, ffzy-online, direct
 host-suffix, ynajax.com, direct
 host-suffix, sdljwomen.com, direct
 #
