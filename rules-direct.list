@@ -10,7 +10,7 @@ host-suffix, playerla.com, direct
 #
 host-suffix, logitechg.com, direct
 host-suffix, logitech.io, direct
-host-suffix, calibre-ebook.com, direct
+# host-suffix, calibre-ebook.com, direct
 host-suffix, qq.com, direct
 host-suffix, moonshot.cn, direct
 host-suffix, metaso.cn, direct
