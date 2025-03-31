@@ -1,5 +1,6 @@
 # custom rules for Quantumult X
 
+host-suffix, cdn.usefathom.com, US Servers
 host-suffix, claude.ai, US Servers
 host-suffix, anthropic.com, US Servers
 host-keyword, google, US Servers
@@ -12,3 +13,25 @@ host-suffix, meta.ai, US Servers
 host-suffix, meta.com, US Servers
 host-suffix, facebook.com, US Servers
 host-suffix, fbcdn.net, US Servers
+
+# NAME: Gemini
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:18:30
+# DOMAIN: 3
+# host-keyword: 3
+# host-suffix: 7
+# TOTAL: 13
+host,ai.google.dev
+host,alkalimakersuite-pa.clients6.google.com
+host,makersuite.google.com
+host-suffix,bard.google.com
+host-suffix,deepmind.com
+host-suffix,deepmind.google
+host-suffix,gemini.google.com
+host-suffix,generativeai.google
+host-suffix,proactivebackend-pa.googleapis.com
+host-suffix,apis.google.com
+host-keyword,colab
+host-keyword,developerprofiles
+host-keyword,generativelanguage
