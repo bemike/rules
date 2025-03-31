@@ -22,16 +22,16 @@ host-suffix, fbcdn.net, US Servers
 # host-keyword: 3
 # host-suffix: 7
 # TOTAL: 13
-host,ai.google.dev
-host,alkalimakersuite-pa.clients6.google.com
-host,makersuite.google.com
-host-suffix,bard.google.com
-host-suffix,deepmind.com
-host-suffix,deepmind.google
-host-suffix,gemini.google.com
-host-suffix,generativeai.google
-host-suffix,proactivebackend-pa.googleapis.com
-host-suffix,apis.google.com
-host-keyword,colab
-host-keyword,developerprofiles
-host-keyword,generativelanguage
+host,ai.google.dev, US Servers
+host,alkalimakersuite-pa.clients6.google.com, US Servers
+host,makersuite.google.com, US Servers
+host-suffix,bard.google.com, US Servers
+host-suffix,deepmind.com, US Servers
+host-suffix,deepmind.google, US Servers
+host-suffix,gemini.google.com, US Servers
+host-suffix,generativeai.google, US Servers
+host-suffix,proactivebackend-pa.googleapis.com, US Servers
+host-suffix,apis.google.com, US Servers
+host-keyword,colab, US Servers
+host-keyword,developerprofiles, US Servers
+host-keyword,generativelanguage, US Servers
