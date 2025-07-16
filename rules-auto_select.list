@@ -7,7 +7,8 @@ host-suffix, cool18.com, Auto
 host-suffix, twitter.com, Auto
 host-suffix, twimg.com, Auto
 host-suffix, x.com, Auto
-
+host-suffix, x.ai, Auto
+host-suffix, grok.com, Auto
 // Github
 host-keyword, github, Auto
 
