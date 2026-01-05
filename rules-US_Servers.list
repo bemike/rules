@@ -25,6 +25,7 @@ host-suffix, fbcdn.net, US Servers
 host, ai.google.dev, US Servers
 host, alkalimakersuite-pa.clients6.google.com, US Servers
 host, makersuite.google.com, US Servers
+host-suffix, google, US Servers
 host-suffix, bard.google.com, US Servers
 host-suffix, deepmind.com, US Servers
 host-suffix, deepmind.google, US Servers
