@@ -4,7 +4,6 @@ host-suffix, cdn.usefathom.com, US Servers
 host-suffix, claude.ai, US Servers
 host-suffix, anthropic.com, US Servers
 host-keyword, google, US Servers
-host-suffix, goog, US Servers
 host-suffix, perplexity.ai, US Servers
 host-suffix, phind.com, US Servers
 host-suffix, nytimes.com, US Servers
@@ -14,18 +13,13 @@ host-suffix, meta.com, US Servers
 host-suffix, facebook.com, US Servers
 host-suffix, fbcdn.net, US Servers
 
-# NAME: Gemini
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:18:30
-# DOMAIN: 3
-# host-keyword: 3
-# host-suffix: 7
-# TOTAL: 13
+# Google
 host, ai.google.dev, US Servers
 host, alkalimakersuite-pa.clients6.google.com, US Servers
 host, makersuite.google.com, US Servers
 host-suffix, google, US Servers
+host-suffix, goog, US Servers
+host-suffix, run.app, US Servers
 host-suffix, bard.google.com, US Servers
 host-suffix, deepmind.com, US Servers
 host-suffix, deepmind.google, US Servers
