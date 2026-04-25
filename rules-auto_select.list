@@ -2,6 +2,7 @@ host-suffix, limbopro.com, Auto
 host-suffix, hkex.com.hk, Auto
 host-suffix, xe.com, Auto
 host-suffix, cool18.com, Auto
+host-suffix, vercel.app, Auto
 
 // X.com
 host-suffix, twitter.com, Auto
