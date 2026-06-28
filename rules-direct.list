@@ -1,3 +1,4 @@
+host-suffix, tencent.com, direct
 host-wildcard, vidhub*.cc, direct
 host-suffix, dmxq.info, direct
 host-keyword, ffzy-online, direct
