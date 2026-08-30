@@ -12,11 +12,11 @@ host-suffix, gvt1.com, proxy
 host-suffix, gvt2.com, proxy
 host-suffix, googleusercontent.com, proxy
 host-suffix, 1e100.net, proxy
-host-suffix, ggpht.com, proxy
-host-suffix, youtube.com, proxy
-host-suffix, youtu.be, proxy
-host-suffix, ytimg.com, proxy
-host-suffix, googlevideo.com, proxy
+# host-suffix, ggpht.com, proxy
+# host-suffix, youtube.com, proxy
+# host-suffix, youtu.be, proxy
+# host-suffix, ytimg.com, proxy
+# host-suffix, googlevideo.com, proxy
 host-suffix, gmail.com, proxy
 host-suffix, googlemail.com, proxy
 host-suffix, goo.gl, proxy
