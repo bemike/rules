@@ -5,6 +5,11 @@
 # ============================================
 
 # ---- 域名部分 (host-suffix) ----
+host-suffix, google, proxy
+host-suffix, goog, proxy
+host-suffix, google.dev, proxy
+host-suffix, google.ai, proxy
+host-suffix, googlezip.net, proxy
 host-suffix, google.com, proxy
 host-suffix, gstatic.com, proxy
 host-suffix, googleapis.com, proxy
