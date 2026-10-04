@@ -1,0 +1,41 @@
+# NAME: X.com & Grok
+# AUTHOR: bemike
+
+# X.com
+HOST-SUFFIX,ads-twitter.com,Auto
+HOST-SUFFIX,cms-twdigitalassets.com,Auto
+HOST-SUFFIX,grok.com,Auto
+HOST-SUFFIX,periscope.tv,Auto
+HOST-SUFFIX,pscp.tv,Auto
+HOST-SUFFIX,t.co,Auto
+HOST-SUFFIX,tellapart.com,Auto
+HOST-SUFFIX,tweetdeck.com,Auto
+HOST-SUFFIX,twimg.co,Auto
+HOST-SUFFIX,twimg.com,Auto
+HOST-SUFFIX,twimg.org,Auto
+HOST-SUFFIX,twitpic.com,Auto
+HOST-SUFFIX,twitter.biz,Auto
+HOST-SUFFIX,twitter.com,Auto
+HOST-SUFFIX,twitter.jp,Auto
+HOST-SUFFIX,twittercommunity.com,Auto
+HOST-SUFFIX,twitterflightschool.com,Auto
+HOST-SUFFIX,twitterinc.com,Auto
+HOST-SUFFIX,twitteroauth.com,Auto
+HOST-SUFFIX,twitterstat.us,Auto
+HOST-SUFFIX,twtrdns.net,Auto
+HOST-SUFFIX,twttr.com,Auto
+HOST-SUFFIX,twttr.net,Auto
+HOST-SUFFIX,twvid.com,Auto
+HOST-SUFFIX,vine.co,Auto
+HOST-SUFFIX,x.com,Auto
+
+# Grok
+HOST-SUFFIX,grok.com,Auto
+HOST-SUFFIX,x.ai,Auto
+HOST-SUFFIX,grokusercontent.com,Auto
+HOST-SUFFIX,groktpcontent.com,Auto
+HOST-SUFFIX,grok-sandbox.com,Auto
+HOST-SUFFIX,grok.me,Auto
+HOST-SUFFIX,grokipedia.com,Auto
+HOST-SUFFIX,cursorvm.com,Auto
+HOST-SUFFIX,teachx.ai,Auto
